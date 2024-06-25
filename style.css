@@ -1,0 +1,53 @@
+div{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#name{
+    color: brown;
+    text-decoration: underline;
+}
+
+div button{
+    color: black;
+}
+
+div a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large
+}
+
+#title-background{
+    background-color: #F8FFEC;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+#career-background{
+    background-color: #B3D4A1;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+#my-resume{
+    background-color:#F8FFEC;
+}
+
+#projects{
+    background-color: #B3D4A1;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+#contact{
+    background-color:#F8FFEC;
+ 
+}
+
+
+
+.btn .btn-primary{
+    background: #ef4339;
+}
